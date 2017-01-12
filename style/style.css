@@ -1,0 +1,109 @@
+
+.search-bar {
+  margin: 20px;
+  text-align: center; 
+}
+
+
+.search-bar input {
+  width: 75%;
+  display: none; 
+}
+
+
+.video-item img {
+  max-width: 64px; 
+}
+
+
+.video-detail .details {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px; 
+}
+
+
+.list-group-item {
+  cursor: pointer;
+  text-align: right;
+  min-width: 280px;
+  font-size: 14px; 
+}
+
+
+.list-group-item:hover {
+  background-color: #eee; 
+}
+
+
+.media-heading {
+  width: 100%;
+  padding-right: 20px; 
+}
+
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 75%;
+  display: none;
+}
+
+.video-item img {
+  max-width: 64px;
+}
+
+.video-list{
+  width: 100%;
+}
+.video-detail .details {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  direction: rtl;
+}
+
+.list-group-item {
+  cursor: pointer;
+  text-align: right;
+  min-width: 280px;
+  font-size: 14px;
+  background-color: yellow;
+  padding: 0;
+}
+.list-group-item.video-list-container {
+  background-color: yellow;
+  padding: 0;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
+
+.media-heading {
+  width: 100%;
+  padding-right: 20px;
+  min-width: 131px; 
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #8BC336;
+  background-image: url('/assets/img/האקדמיה למדעי ההפסקה.png');
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: auto 100px;
+}
+
+.container {
+  direction: ltr;
+  background-color: skyblue;
+  width: 100%;
+  height: 100%;
+  margin-top: 100px; 
+}
