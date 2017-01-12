@@ -94,7 +94,7 @@ body {
   width: 100%;
   height: 100%;
   background-color: #8BC336;
-  background-image: url('/assets/img/logo.png');
+  background-image: url('./assets/img/logo.png');
   background-repeat: no-repeat;
   background-position: center top;
   background-size: auto 100px;
